@@ -24,7 +24,7 @@ public class Ex06 {
 			fos.write(b);
 			fos.write('C'); // 그대로 저장됨. 'C' 치면 자동으로 형변환해줌. (int)'C'			
 			
-		} catch (FileNotFoundException e) {			
+		} catch (FileNotFoundException e) {	//참고로 FileNotFoundException은 IOException의 자손이기 때문에, 여기서 사실상 FileNotFoundException은 예외 처리 안해줘도 IOException이 있어서 상관 없음. day043 3페이지 봐라 
 			e.printStackTrace();
 		} catch (IOException e) {
 			e.printStackTrace();

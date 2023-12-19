@@ -10,7 +10,7 @@ public class Quiz04 {
 
 	public static void main(String[] args) {
 		
-		//void write(byte값)으로 풀기
+		// void write(byte값)으로 풀기
 		try {
 			FileOutputStream fo = new FileOutputStream("output3.txt");
 			System.out.println((byte)'A');
