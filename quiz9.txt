@@ -1,30 +1,5 @@
-#removed
-.metadata
-collection
-Day001
-Day002
-git new
-java-study
-java-study-main.zip
-Praictice git uploading
-Project10_
-Project11_
-Project12_
-Project13_
-Project14_
-Project15_
-project2
-Project3
-Project4
-Project5
-Project6
-Project7
-Project8
-Project9
-repository
-saved 03rd nov 2023.zip
-saved 06th nov 2023.zip
-saved 07th nov 2023.zip
-saved 09th november.zip
-능력평가_주요한.zip
-주요한
+1장_GIT시작하기.pdf
+2장_GitBash 사용하기.pdf
+Quiz10
+Quiz10-1
+Quiz10-2

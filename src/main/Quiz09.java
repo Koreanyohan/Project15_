@@ -16,7 +16,7 @@ public class Quiz09 {
 
 		try {
 			FileWriter fwter = new FileWriter("quiz9.txt");
-			printFileList(path2, fwter);
+			printFileList(path1, fwter);
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
